@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<video width="400" height="240" controls autoplay>
+<video width="400" height="240" controls autoplay muted>
     <source src="images/ripples.mov" type="video/mp4">
 </video>
 
