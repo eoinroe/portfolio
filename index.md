@@ -13,7 +13,7 @@
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <video controls autoplay muted>
-    <source src="images/rust.mov" type="video/mp4">
+    <source width ="400" height="400" src="images/rust.mov" type="video/mp4">
 </video>
 
 ---
