@@ -17,7 +17,7 @@
 ---
 [Project 3 Title](http://example.com/)
 <video width="300" height="240" controls autoplay muted>
-    <source src="images/decay-simulation.mov" type="video/mp4">
+    <source src="images/rust.mov" type="video/mp4">
 </video>
 
 ---
