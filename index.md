@@ -5,14 +5,14 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<video width="400" height="240" controls autoplay muted>
+<video width="300" height="300" controls autoplay muted>
     <source src="images/ripples.mov" type="video/mp4">
 </video>
 
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<video width ="400" height="400" controls autoplay muted>
+<video width ="300" height="300" controls autoplay muted>
     <source src="images/rust.mov" type="video/mp4">
 </video>
 
