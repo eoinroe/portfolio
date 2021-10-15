@@ -12,13 +12,13 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/raytracing.jpg?raw=true"/>
+<video controls autoplay muted>
+    <source src="images/rust.mov" type="video/mp4">
+</video>
 
 ---
 [Project 3 Title](http://example.com/)
-<video width="300" height="240" controls autoplay muted>
-    <source src="images/rust.mov" type="video/mp4">
-</video>
+<img src="images/raytracing.jpg?raw=true"/>
 
 ---
 
