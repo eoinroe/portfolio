@@ -16,7 +16,9 @@
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<video width="300" height="240" controls autoplay muted>
+    <source src="images/decay-simulation.mov" type="video/mp4">
+</video>
 
 ---
 
