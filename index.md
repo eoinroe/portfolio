@@ -5,7 +5,11 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+ <video width="320" height="240" controls>
+  <source src="ripples.mov" type="video/mov">
+  Your browser does not support the video tag.
+</video> 
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
