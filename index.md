@@ -5,13 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-<!--  <video width="320" height="240" controls>
-  <source src="images/ripples.mov?raw=true" type="video/mov">
-  Your browser does not support the video tag.
-</video>  -->
-
-<video width="400" controls autoplay>
+<video width="400" height="240" controls autoplay>
     <source src="images/ripples.mov" type="video/mp4">
 </video>
 
