@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Graphics Projects
 
 [Metal Powered AR](https://sites.gold.ac.uk/computing-project-prizes/eoin-roe/)
 <video width="300" height="300" controls loop autoplay muted>
@@ -23,13 +23,11 @@
 
 ---
 
-### Category Name 2
+### Audio Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Web-based Synthesis Application](http://colorsynth.herokuapp.com/)
+- [Virtual Analog Filter Implementation](https://github.com/eoinroe/MorphableFilter)
+- [Musical Instrument Design](https://blog.bela.io/music-and-audio-programming-teaching/)
 
 ---
 
