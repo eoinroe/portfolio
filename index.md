@@ -12,9 +12,10 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<video width ="300" height="300" controls autoplay muted>
+<!-- <video width ="300" height="300" controls autoplay muted>
     <source src="images/rust.mov" type="video/mp4">
-</video>
+</video> -->
+<img src="images/rust.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
