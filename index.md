@@ -4,21 +4,21 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Metal powered AR](/sample_page)
 <video width="300" height="300" controls autoplay muted>
     <source src="images/ripples.mov" type="video/mp4">
 </video>
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Redox Simulation](/pdf/sample_presentation.pdf)
 <!-- <video width ="300" height="300" controls autoplay muted>
     <source src="images/rust.mov" type="video/mp4">
 </video> -->
 <img src="images/rust.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Metal Accelerated Ray Tracing](http://example.com/)
 <img src="images/raytracing.jpg?raw=true"/>
 
 ---
