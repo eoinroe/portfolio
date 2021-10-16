@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Metal Powered AR](https://sites.gold.ac.uk/computing-project-prizes/eoin-roe/)
-<video width="300" height="300" controls autoplay muted>
+<video width="300" height="300" controls loop autoplay muted>
     <source src="images/ripples.mov" type="video/mp4">
 </video>
 
