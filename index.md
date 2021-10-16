@@ -19,7 +19,7 @@
 
 ---
 [Metal Accelerated Ray Tracing](http://example.com/)
-<img src="images/pathtracing.png?raw=true"/>
+<img src="images/reflective.png?raw=true"/>
 
 ---
 
