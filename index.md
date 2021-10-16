@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Metal powered AR](/sample_page)
+[Metal Powered AR](/sample_page)
 <video width="300" height="300" controls autoplay muted>
     <source src="images/ripples.mov" type="video/mp4">
 </video>
