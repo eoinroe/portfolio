@@ -4,21 +4,21 @@
 
 ### Category Name 1 
 
-[Metal Powered AR](/sample_page)
+[Metal Powered AR](https://sites.gold.ac.uk/computing-project-prizes/eoin-roe/)
 <video width="300" height="300" controls autoplay muted>
     <source src="images/ripples.mov" type="video/mp4">
 </video>
 
 
 ---
-[Redox Simulation](/pdf/sample_presentation.pdf)
+[Redox Simulation](https://sites.gold.ac.uk/computing-project-prizes/eoin-roe/)
 <!-- <video width ="300" height="300" controls autoplay muted>
     <source src="images/rust.mov" type="video/mp4">
 </video> -->
 <img src="images/rust.png?raw=true"/>
 
 ---
-[Metal Accelerated Ray Tracing](http://example.com/)
+[Metal Accelerated Ray Tracing](https://twitter.com/eoinrroe/status/1341084039453831168)
 <img src="images/mixed.png?raw=true"/>
 
 ---
