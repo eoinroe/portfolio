@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Graphics Projects
+## Graphics Projects
 
 [Metal Powered AR](https://sites.gold.ac.uk/computing-project-prizes/eoin-roe/)
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/3CvGCkhOLME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -19,7 +19,7 @@
 
 ---
 
-### Audio Projects
+## Audio Projects
 
 - [Web-based Synthesis Application](http://colorsynth.herokuapp.com/)
 - [Virtual Analog Filter Implementation](https://github.com/eoinroe/MorphableFilter)
