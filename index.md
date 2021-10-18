@@ -11,7 +11,8 @@
 ---
 [Redox Simulation](https://sites.gold.ac.uk/computing-project-prizes/eoin-roe/)
 <!-- <img src="images/rust.png?raw=true"/> -->
-<iframe width="960" height="540" src="https://www.youtube.com/embed/QbQKJ2g4qz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/QbQKJ2g4qz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="960" height="540" src="https://www.youtube.com/embed/QbQKJ2g4qz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ---
 [Metal Accelerated Ray Tracing](https://twitter.com/eoinrroe/status/1341084039453831168)
