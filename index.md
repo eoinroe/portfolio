@@ -5,7 +5,7 @@
 ## Graphics Projects
 
 [Metal Powered AR](https://sites.gold.ac.uk/computing-project-prizes/eoin-roe/)
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/3CvGCkhOLME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/3CvGCkhOLME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
