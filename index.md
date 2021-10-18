@@ -8,9 +8,7 @@
 <!-- <video width="300" height="300" controls loop autoplay muted>
     <source src="images/ripples.mov" type="video/mp4">
 </video> -->
-<iframe width="420" height="315"
-    src="https://www.youtube.com/watch?v=3CvGCkhOLME">
-</iframe> 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/3CvGCkhOLME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
