@@ -21,7 +21,7 @@
 
 ## Audio Projects
 
-- [Web-based Synthesis Application](http://colorsynth.herokuapp.com/)
+- [Web-based Synthesis Application (Supported Browsers: Chrome)](http://colorsynth.herokuapp.com/)
 - [Virtual Analog Filter Implementation](https://github.com/eoinroe/MorphableFilter)
 - [Musical Instrument Design](https://blog.bela.io/music-and-audio-programming-teaching/)
 
