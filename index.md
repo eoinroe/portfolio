@@ -24,7 +24,7 @@
 
 ## Audio Projects
 
-- [Web-based Synthesis Application (Supported Browsers: Chrome)](https://colorsynth.herokuapp.com)
+- [Web-based Synthesis Application (Supported Browsers: Chrome)](https://colorsynth.up.railway.app)
 - [Virtual Analog Filter Implementation](https://github.com/eoinroe/MorphableFilter)
 - [Musical Instrument Design](https://blog.bela.io/music-and-audio-programming-teaching/)
 
